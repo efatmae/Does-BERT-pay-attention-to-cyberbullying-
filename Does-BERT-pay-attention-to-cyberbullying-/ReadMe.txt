@@ -1,6 +1,7 @@
+This code is the code to excute the experiemnts in the "Does BERT pay attention to cyberbullying?" paper published in Sigir 2021.
+
 The project is organized as follow:
-
-
+=====================================
 Model_Training: contains python files used to train the different models in the paper. 
 
 Model_interpretation: Contains python files used to analyse the attention weights of the trained models and generate the graphs used in the paper.
